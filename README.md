@@ -1,3 +1,3 @@
 # Wine-Quality-Prediction
 
-[Download the PDF](Wine Quality Prediction.ipynb - Colab.pdf)
+[Download the PDF](Quality_Prediction.pdf)
